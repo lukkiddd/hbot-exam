@@ -1,0 +1,26 @@
+{
+  "name": "hbot-exam",
+  "version": "1.0.0",
+  "description": "An exam from hbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukkiddd/hbot-exam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukkiddd/hbot-exam/issues"
+  },
+  "homepage": "https://github.com/lukkiddd/hbot-exam#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "feedparser": "^2.2.0",
+    "moment": "^2.18.1",
+    "mongodb": "^2.2.26",
+    "request": "^2.81.0"
+  }
+}
