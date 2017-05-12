@@ -7,10 +7,10 @@ This is an exam from Hbot Company
 3. **IMPORTANT** If you want to run the script on `NoSQL` Topic you need to start your mongodb server. (Default port: `27017`)
 
 ### 1. Create an instance class from string name
-[] Confuse.
+[ ] Confuse.
 
 ### 2. NoSQL (Query, Insert, Filter)
-According to MongoDB API
+Using MongoDB API to complete this topic.
 
 ### 3. Blognone (API, RSS)
 Using feedparser for parse all data from rss feed into an object.
